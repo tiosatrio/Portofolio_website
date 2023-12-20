@@ -785,6 +785,14 @@ section {
   width: 100%;
 }
 
+.img-tim{
+  height: 60px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+
+
 .services .icon i {
   color: #755A40;
   font-size: 24px;
